@@ -1,0 +1,5 @@
+pandas
+mysql.connector
+scipy
+numpy
+random
